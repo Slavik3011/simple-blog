@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt-as-promised": "^1.1.0",
+    "bluebird": "^3.5.0",
     "body-parser": "^1.18.1",
     "express": "^4.15.4",
     "express-session": "^1.15.5",
